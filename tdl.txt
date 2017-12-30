@@ -1,1 +1,3 @@
 Problème attachinary : les photos sont remplacées par du texte
+
+Pb VO - VF - fixer les vues devises
