@@ -1,3 +1,7 @@
 Problème attachinary : les photos sont remplacées par du texte
 
 Pb VO - VF - fixer les vues devises
+creation user : last name et first name
+creation mariage : title, description, location, capacity
+message de notification : "weeding was successfully created"
+
