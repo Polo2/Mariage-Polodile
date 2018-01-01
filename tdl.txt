@@ -5,3 +5,4 @@ creation user : last name et first name
 creation mariage : title, description, location, capacity
 message de notification : "weeding was successfully created"
 
+db.lewagon.com : polodile
