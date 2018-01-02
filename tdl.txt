@@ -1,8 +1,11 @@
-Problème attachinary : les photos sont remplacées par du texte
+OK Problème attachinary : les photos sont remplacées par du texte
 
-Pb VO - VF - fixer les vues devises
-creation user : last name et first name
-creation mariage : title, description, location, capacity
-message de notification : "weeding was successfully created"
+OK Pb VO - VF - fixer les vues devises
+OK creation user : last name et first name
+OK creation mariage : title, description, location, capacity
+OK message de notification : "weeding was successfully created"
+
+
+Pb sur upload / changement de photo de profil --> incomprehension de l'usage de jQuer-File-Upload
 
 db.lewagon.com : polodile
