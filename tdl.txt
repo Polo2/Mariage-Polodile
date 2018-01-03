@@ -6,6 +6,6 @@ OK creation mariage : title, description, location, capacity
 OK message de notification : "weeding was successfully created"
 
 
-Pb sur upload / changement de photo de profil --> incomprehension de l'usage de jQuer-File-Upload
+KO Pb sur upload / changement de photo de profil --> incomprehension de l'usage de jQuer-File-Upload
 
 db.lewagon.com : polodile
