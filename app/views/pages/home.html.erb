@@ -108,12 +108,19 @@
       <div class="row">
         <div class="col-xs-12 col-md-6 col-md-offset-3">
           <%= simple_form_for(@question) do |f|%>
+            <%= f.input :number_1, as: :hidden %>
+            <%= f.input :number_2, as: :hidden %>
             <div class="row">
               <div class="col-md-6 col-sm-12">
                 <%= f.input :name %>
               </div>
               <div class="col-md-6 col-sm-12">
                 <%= f.input :email %>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <%= f.input :security_answer, label: "Ajouter #{@question.text_number_1} et #{@question.text_number_2} ?"%>
               </div>
             </div>
             <div class="row marged-top">
